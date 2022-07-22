@@ -10,7 +10,7 @@ public class Action {
         jFrame.add(jPanel);
         AbstractAction myAction = new MyAction();
         JButton jButton = new JButton(myAction);
-        jButton.setText("Tyk");
+        jButton.setText("Tyfgdg");
         jPanel.add(jButton);
 
         KeyStroke keyStroke = KeyStroke.getKeyStroke("ctrl B");
